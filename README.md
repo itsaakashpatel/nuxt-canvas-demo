@@ -19,4 +19,8 @@ $ npm run start
 $ npm run generate
 ```
 
+## Sample
+
+![sample](https://github.com/itsaakashpatel/nuxt-canvas-demo/blob/master/static/sample.gif)
+
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
